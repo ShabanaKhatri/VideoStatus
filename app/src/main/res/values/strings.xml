@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"><!--Ploodi-->Video Status</string>
+    <!--test-->
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <!--given-->
+    <string name="banner_ad_unit_id">ca-app-pub-6538072568599200/8166391832</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toast_no_internet">No Internet</string>
+    <string name="trending">Trending</string>
+    <string name="hot">Hot</string>
+    <string name="sad">Sad</string>
+    <string name="love">Love</string>
+    <string name="motivation">Motivation</string>
+    <string name="categories">Categories</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="click">1</integer>
+    <integer name="clickPosition">2</integer>
+    <integer name="view">11</integer>
+    <integer name="pos">13</integer>
+</resources>
