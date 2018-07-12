@@ -7,7 +7,7 @@
 
         <variable
             name="data"
-            type="com.ploodi.retrofit.Response.Category" />
+            type="com.videoStatus.retrofit.Response.Category" />
     </data>
 
 

@@ -13,7 +13,7 @@
             android:background="@color/colorAccent"
             android:orientation="vertical">
 
-            <com.ploodi.videomanage.ui.VideoPlayerView
+            <com.videoStatus.videomanage.ui.VideoPlayerView
                 android:id="@+id/player"
                 android:layout_above="@id/title"
                 android:layout_width="match_parent"
